@@ -1,0 +1,9 @@
+{
+  "filetemplate": 
+  fields:
+{
+{"name", "id", ["string", null]},
+
+}
+
+}
